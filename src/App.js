@@ -10,6 +10,7 @@ import Text from "./components/Text";
 import Login from "./components/Login";
 import Signup from "./components/Signup";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -31,18 +32,19 @@ function App() {
               <Hero1 />
               <Hero2 />
               <Hero3 />
-              <div id="slide">
               <Text />
-              </div>
             </>
           }>
           </Route>
           <Route path='/signup' element={<Signup />} />
           <Route path='/login' element={<Login />} />
           <Route path='/contact' element={<Contact />} />
+         
         </Routes>
+        <Footer />
       </div>
     </Router>
+
   );
 }
 

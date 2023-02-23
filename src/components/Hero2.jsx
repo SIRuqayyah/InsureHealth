@@ -11,7 +11,6 @@ export default function Hero2() {
                 <div className="hero-two-text">
                     <h1>We’re always <br /> available to respond <br /> to your inquires </h1>
                     <p>Our team of customer support experts are ready and always available to assist you with whatever inquiry you have.  We’re available 24/7 to offer you assistance and answer all your questions.</p>
-                    <button className="header-btn">Contact Us</button>
                 </div>
             </div>
         </div>

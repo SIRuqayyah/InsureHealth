@@ -15,7 +15,6 @@ export default function Hero() {
                     <p>
                     We are partnered with 90% HMO providers and hospitals across Nigeria to provide individuals with reliable and usable Healthcare that caters to their needs all times
                     </p>
-                    <button className="hero-btn">Learn more</button>
                 </div>
             </div>
             <div className="hero-img">

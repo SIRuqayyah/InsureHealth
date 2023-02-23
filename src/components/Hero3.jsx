@@ -1,5 +1,5 @@
 import React from "react";
-import hmo from "./images/Group 360.png"
+import hmo from "./images/Group 27141.png"
 
 export default function Hero3() {
     return(
